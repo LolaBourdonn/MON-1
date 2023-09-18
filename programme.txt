@@ -1,0 +1,6 @@
+# ce qu'il faut faire
+
+* ajouter des fichiers 
+* modifiers des fichers 
+*voir l'historique
+* ne pas avoir peur des merge
